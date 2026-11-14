@@ -1,0 +1,4 @@
+# Runtime dependencies for the local research annotation application.
+# Python 3.10+ is required (PEP 604 unions and built-in generic annotations).
+Flask>=3.0,<4
+numpy>=1.26,<3
